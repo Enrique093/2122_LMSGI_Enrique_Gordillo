@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+td:nth-child(1){
+    background-color: green;
+}
+table,th,td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+[colspan="5"]{
+    background-color: yellow;
+}
+a:visited{
+    color: red;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+tr td:nth-last-child(1):hover{
+    border: 33px ;
+    font-size: 33px;
+}
+tr th:nth-last-child(1):hover{
+    border: 3px;
+    font-size: 33px;
+}
+thead th::first-letter{
+    font-size: 66px;
+}
+[required]{
+    border: red solid 3px;
+    padding: 5px;
+}
+label::after{
+    content: "*";
+    color: red;
+}

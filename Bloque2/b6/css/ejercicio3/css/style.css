@@ -1,0 +1,13 @@
+h1{
+    border-bottom: #00f 2px solid;
+}
+h2{
+    border: #AAA 2px solid;
+}
+#ul1{
+    border-top: red 4px dotted;
+    border-bottom: red 4px dotted;
+}
+#ul2{
+    border: greenyellow 2px dashed;
+}

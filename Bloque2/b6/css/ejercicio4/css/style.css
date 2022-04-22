@@ -1,0 +1,32 @@
+h1{
+    border: blue 2px solid;
+}
+h2{
+    border: gray 2px solid;
+}
+ul{
+    border:rgb(5, 211, 5) 2px solid   
+    
+}
+
+ul{
+    padding-right: 13px;
+
+}
+h1{
+    padding: 13px;
+}
+h1{
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+h2{
+    padding: 6px;
+}
+h2{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+li{
+    margin: 14px;
+}
