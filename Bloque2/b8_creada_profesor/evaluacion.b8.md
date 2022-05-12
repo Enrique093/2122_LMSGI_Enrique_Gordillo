@@ -5,8 +5,8 @@
 Normas:
 - crear carpeta individual para cada ejercicio: SI
 - recursos en carpeta correspondientes, css/ o img/: SI
-- Subido a repositorio github: SI
-- Entrega correcta en classroom: NO, pero justificación de motivo, después subida a github
+- Subido a repositorio github: NO
+- Entrega correcta en classroom: NO
   
 
 ### Ejercicio 1
