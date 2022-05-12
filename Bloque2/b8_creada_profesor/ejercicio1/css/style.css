@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font: 1em/1.3
+
+}
+.year{
+    padding: 300px;
+    display: grid;
+    grid-gap: 60px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    background: white;
+}
+.container{
+    width: 200px;
+    height: 150px;
+    padding: 0.1px;
+    color: black;
+}
+.title{
+    text-align: center;
+    margin: 3px;
+    color: black
+}
+.calendar{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+.day{
+    list-style: none;
+    text-align: center;
+    padding: 3px;
+    color: black;
+    font-size: 15px;
+}
+.day-name{
+    background: rgb(187, 182, 182);
+    text-align: center;
+}
+.first-day{
+    grid-column-start: 5;
+}
+.first-day-abr{
+    grid-column-start: 4;
+}
+.first-day-may{
+    grid-column-start: 6;
+}
+.first-day-jun{
+    grid-column-start: 2;
+}
+.first-day-jul{
+    grid-column-start: 4;
+}
+.first-day-ago{
+    grid-column-start: 7;
+}
+.first-day-sep{
+    grid-column-start: 3;
+}
+.first-day-oct{
+    grid-column-start: 5;
+}
+.first-day-dic{
+    grid-column-start: 3;
+}
